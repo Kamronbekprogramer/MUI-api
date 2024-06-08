@@ -2,6 +2,7 @@ h1 {
     color: white;
 }
 
-.card-footer button {
-    margin-left: 260px;
+.card-footer  {
+    display: flex;
+    justify-content: center;
 }
